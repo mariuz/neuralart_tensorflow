@@ -5,8 +5,8 @@ import scipy.misc
 import os
 
 
-IMAGE_W = 800 
-IMAGE_H = 600 
+IMAGE_W = 640	 
+IMAGE_H = 480 
 CONTENT_IMG =  './images/Taipei101.jpg'
 STYLE_IMG = './images/StarryNight.jpg'
 OUTOUT_DIR = './results'
